@@ -8,6 +8,7 @@ public class SpringSecurityBasicAuthApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityBasicAuthApplication.class, args);
+		System.out.println("Application Started... Have a Great Day :)");
 	}
 
 }
